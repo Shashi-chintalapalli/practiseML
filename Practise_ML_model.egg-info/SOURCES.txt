@@ -1,0 +1,6 @@
+setup.py
+Practise_ML_model.egg-info/PKG-INFO
+Practise_ML_model.egg-info/SOURCES.txt
+Practise_ML_model.egg-info/dependency_links.txt
+Practise_ML_model.egg-info/requires.txt
+Practise_ML_model.egg-info/top_level.txt
